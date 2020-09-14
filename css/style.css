@@ -1,0 +1,21 @@
+
+h2{
+   color: aqua;
+    text-align: center;
+    font-size: 40px;
+   
+}
+.mainbox{
+    width: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+.box{
+    
+    width: 60px;
+    height: 60px;
+    border: 2px solid aqua;
+    float: left;
+    font-size: 40px;
+    
+}
